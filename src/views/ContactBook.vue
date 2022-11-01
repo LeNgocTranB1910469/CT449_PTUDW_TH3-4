@@ -49,7 +49,7 @@ export default {
     components: {
         ContactCard,
         InputSearch,
-        ContactList,
+        ContactList
     },
     data() {
         return {
